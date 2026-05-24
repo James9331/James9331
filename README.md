@@ -2,9 +2,9 @@
 
 # Transforming ideas into production-ready applications
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yeti122216&color=blueviolet&style=flat)](https://github.com/yeti122216)
-[![GitHub followers](https://img.shields.io/github/followers/yeti122216?logo=GitHub&style=flat)](https://github.com/yeti122216)
-[![GitHub stars](https://img.shields.io/github/stars/yeti122216?logo=github&style=flat)](https://github.com/yeti122216)
+[![Profile Views](https://komarev.com/ghpvc/?username=james9331&color=blueviolet&style=flat)](https://github.com/james9331)
+[![GitHub followers](https://img.shields.io/github/followers/james9331?logo=GitHub&style=flat)](https://github.com/james9331)
+[![GitHub stars](https://img.shields.io/github/stars/james9331?logo=github&style=flat)](https://github.com/james9331)
 
 
 
@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer with a keen interest in creating exception
 <tr>
 <td width="60%" valign="top" align="center" style="border:none;">
 
-<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=yeti122216" alt="GitHub Streak"/>
+<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=james9331" alt="GitHub Streak"/>
 
 </td>
 <!-- <td width="40%" valign="top" style="border:none;">
@@ -43,9 +43,9 @@ I'm a passionate Full Stack Developer with a keen interest in creating exception
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeti122216/yeti122216/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeti122216/yeti122216/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yeti122216/yeti122216/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/james9331/james9331/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/james9331/james9331/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/james9331/james9331/output/github-contribution-grid-snake.svg">
 </picture>
 
 </details>
@@ -148,28 +148,28 @@ I'm a passionate Full Stack Developer with a keen interest in creating exception
 <div align="center">
 
 #### Achievements & Milestones
-[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=yeti122216&alltime=true&theme=light&margin-w=4&row=1&column=9)](https://github.com/yeti122216/github-profile-trophy)
+[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=james9331&alltime=true&theme=light&margin-w=4&row=1&column=9)](https://github.com/james9331/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-stats-mu-nine.vercel.app/api?username=yeti122216&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
+<img width="60%" src="https://github-stats-mu-nine.vercel.app/api?username=james9331&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
 <!-- <img width="33%" 
-  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=yeti122216&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=james9331&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 -->
 
 </div>
 
 <div align="center">
 
-<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeti122216&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=james9331&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://wakatime.com/share/@yeti122216/cf237e7a-1786-44d8-907a-0f036f10120a.svg" />
+<img width="70%" src="https://wakatime.com/share/@james9331/cf237e7a-1786-44d8-907a-0f036f10120a.svg" />
 
 </div>
 
@@ -190,8 +190,8 @@ I'm a passionate Full Stack Developer with a keen interest in creating exception
 **Let's build something amazing together.**
 
 </div>
-<!--<a href="https://u8views.com/github/yeti122216">
-  <img src="https://u8views.com/api/v1/github/profiles/114364448/views/day-week-month-total-count.svg" width="500" alt="yeti122216 profile views">
+<!--<a href="https://u8views.com/github/james9331">
+  <img src="https://u8views.com/api/v1/github/profiles/114364448/views/day-week-month-total-count.svg" width="500" alt="james9331 profile views">
 </a>
 </div>
 -->
